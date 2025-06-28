@@ -21,23 +21,22 @@ npm run dev
 
 ![image](https://github.com/user-attachments/assets/9e786c15-d856-442e-86e7-1b3e828b5623)
 
-![image](https://github.com/user-attachments/assets/d2de0440-f470-4b3e-98d3-9e27b0b562b0)
+![image](https://github.com/user-attachments/assets/b6fad13f-8538-4be0-9e3e-28d0c82f99af)
 
 **Dashboard**
 
 ![image](https://github.com/user-attachments/assets/54ef7ec6-dda7-49f8-8c89-8897ab7b306d)
 
-**Transiction History**
+**Transaction History**
 
 ![image](https://github.com/user-attachments/assets/cc1771c5-acd4-4fee-844f-6ea012a14c87)
 
 ## Contributor:
-Thank you [Milton Bhai](https://github.com/WaliUllahMilton) and Mahir Bhai for helping me out in this project.
+Thank you, [Milton Bhai](https://github.com/WaliUllahMilton) and Mahir Bhai, for helping me out with this project.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Just to let you know, pull requests are welcome. For major changes, please open an issue first.
 
 Please make sure to update tests as appropriate.
 
